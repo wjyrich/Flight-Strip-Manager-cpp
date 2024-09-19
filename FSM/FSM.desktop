@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=FSM
+Name=FSM
+Name[zh_CN]=FSM
+Icon=FSM
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=FSM
+Version=1.0
